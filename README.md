@@ -40,8 +40,6 @@
 #
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zaksiu12s&repo=SchedulePlus&theme=dark )](https://github.com/zaksiu12s/SchedulePlus)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zaksiu12s&repo=2dCalculator&theme=dark )](https://github.com/zaksiu12s/2dCalculator)
-
 </div>
 
 #
