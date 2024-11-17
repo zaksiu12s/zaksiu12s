@@ -39,7 +39,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaksiu12s&theme=dark )](https://github.com/zaksiu12s/github-readme-stats) 
 #
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zaksiu12s&repo=SchedulePlus&theme=dark )](https://github.com/zaksiu12s/SchedulePlus)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zaksiu12s&repo=SchedulePlus&theme=dark )](https://github.com/zaksiu12s/Geolingo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zaksiu12s&repo=Geolingo&theme=dark )](https://github.com/zaksiu12s/Geolingo)
 
 </div>
 
