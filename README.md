@@ -1,5 +1,5 @@
 #
-- 👋 Hi, I’m @zaksiu12s
+- 👋 Hi, I’m [Max](https://github.com/zaksiu12s)
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning TensorFlow
 #
