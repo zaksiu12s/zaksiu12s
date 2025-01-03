@@ -1,7 +1,7 @@
 #
 - 👋 Hi, I’m @zaksiu12s
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning C#, React, TypeScript and TensorFlow
+- 🌱 I’m currently learning TensorFlow
 #
 
 # Technologies:
