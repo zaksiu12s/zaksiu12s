@@ -1,6 +1,9 @@
 # Hi, I'm Maks 👋
-I'm a Junior QA Tester focusing on manual and end-to-end testing using Playwright.  
+
+🎯 **Junior QA Tester** | Manual & E2E Testing with **Playwright**
+
 I enjoy exploring web applications, finding usability issues, and improving overall quality through clear testing documentation and feedback.
+
 
 ## 🔧 Tools & Skills:
 - Manual Testing, Exploratory Testing, Bug Reporting
