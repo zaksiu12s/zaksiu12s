@@ -15,3 +15,6 @@ I enjoy exploring web applications, finding usability issues, and improving over
 ## 📈 Current Focus
 - Expanding my knowledge of Playwright and E2E testing
 - Learning more about test design and automation practices
+
+ ### 🌐 Connect with me  
+📫 zajacmaksymilian@icloud.com
